@@ -1,7 +1,3 @@
-/* buat sistem kalkulator. gunakan dan gabungkan fungsi if else bersarang,
- * for loop, while do, switch. Buat sistem sesimpel mugkin tapi bisa
- * mengakomodir selutuh sistrem. */
-
 #include <stdio.h>
 int main()
 {
